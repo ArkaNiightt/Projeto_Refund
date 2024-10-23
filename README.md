@@ -38,5 +38,4 @@ Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENS
 
 ---
 
-<p align="center">Feito com ❤️ por João Augusto</p>
 
